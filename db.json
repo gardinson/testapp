@@ -5,7 +5,7 @@
     { "id": 3, "title": "Test3", "completed": true, "DueDate": "03.02.2019", "Category":"Team" }
   ],
   "Table": [
-    { "date": "1.1.19", data:[1,"Blue Sharks Waltenschwil",8,3,1,73,48,19],
+    { "date": "1.1.19", data:[[1,"Blue Sharks Waltenschwil",8,3,1,73,48,19],
   [2,"Team Aarau II",8,2,2,81,56,18],
   [3,"UHC Pinguin Schötz",6,1,5,72,63,13],
   [4,"Baden-Birmenstorf III",5,2,5,73,76,12],
@@ -15,6 +15,6 @@
   [8,"Red Taurus Wislikofen",4,1,7,63,80,9],
   [9,"UHC Wolhusen",3,2,7,63,73,8],
   [10,"TV Birrhard",3,2,7,56,66,8] }
-  ],
+  ]],
   "profile": { "name": "typicode" }
 }
