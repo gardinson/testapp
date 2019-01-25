@@ -3,5 +3,5 @@
     { "id": 1, "title": "Test1", "completed": true, "DueDate": "01.02.2019", "Category":"Board" },
     { "id": 2, "title": "Test2", "completed": false, "DueDate": "02.02.2019", "Category":"Myself" },
     { "id": 3, "title": "Test3", "completed": true, "DueDate": "03.02.2019", "Category":"Team" }
-  ],
+  ]
 }
