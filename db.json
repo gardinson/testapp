@@ -3,5 +3,107 @@
     { "id": 1, "title": "Test1", "completed": true, "DueDate": "01.02.2019", "Category":"Board" },
     { "id": 2, "title": "Test2", "completed": false, "DueDate": "02.02.2019", "Category":"Myself" },
     { "id": 3, "title": "Test3", "completed": true, "DueDate": "03.02.2019", "Category":"Team" }
-  ]
+  ],
+  "table":[
+ {
+   "Rang": 1,
+   "Team": "Blue Sharks Waltenschwil",
+   "S": 8,
+   "U": 3,
+   "N": 1,
+   "T+": 73,
+   "T-": 48,
+   "P": 19
+ },
+ {
+   "Rang": 2,
+   "Team": "Team Aarau II",
+   "S": 8,
+   "U": 2,
+   "N": 2,
+   "T+": 81,
+   "T-": 56,
+   "P": 18
+ },
+ {
+   "Rang": 3,
+   "Team": "UHC Pinguin Schötz",
+   "S": 6,
+   "U": 1,
+   "N": 5,
+   "T+": 72,
+   "T-": 63,
+   "P": 13
+ },
+ {
+   "Rang": 4,
+   "Team": "Baden-Birmenstorf III",
+   "S": 5,
+   "U": 2,
+   "N": 5,
+   "T+": 73,
+   "T-": 76,
+   "P": 12
+ },
+ {
+   "Rang": 5,
+   "Team": "White Horse Lengnau II",
+   "S": 6,
+   "U": 0,
+   "N": 6,
+   "T+": 56,
+   "T-": 59,
+   "P": 12
+ },
+ {
+   "Rang": 6,
+   "Team": "Floorball Albis III",
+   "S": 5,
+   "U": 1,
+   "N": 6,
+   "T+": 72,
+   "T-": 73,
+   "P": 11
+ },
+ {
+   "Rang": 7,
+   "Team": "Stadel-Niederhasli II",
+   "S": 4,
+   "U": 2,
+   "N": 6,
+   "T+": 57,
+   "T-": 72,
+   "P": 10
+ },
+ {
+   "Rang": 8,
+   "Team": "Red Taurus Wislikofen",
+   "S": 4,
+   "U": 1,
+   "N": 7,
+   "T+": 63,
+   "T-": 80,
+   "P": 9
+ },
+ {
+   "Rang": 9,
+   "Team": "UHC Wolhusen",
+   "S": 3,
+   "U": 2,
+   "N": 7,
+   "T+": 63,
+   "T-": 73,
+   "P": 8
+ },
+ {
+   "Rang": 10,
+   "Team": "TV Birrhard",
+   "S": 3,
+   "U": 2,
+   "N": 7,
+   "T+": 56,
+   "T-": 66,
+   "P": 8
+ }
+]
 }
